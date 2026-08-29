@@ -31,9 +31,12 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Clayton Sanudi | Software Engineer in Zimbabwe",
     description: "Full-stack software engineer based in Zimbabwe.",
-    url: "https://clayton-sanudi.vercel.app",
+    url: "https://portfolio-bice-iota-66.vercel.app",
     siteName: "Clayton Sanudi",
     type: "website",
+  },
+  verification: {
+    google:"oUFx_ CuUygBNU__GOIqYa_SxvS0uvj52CC04Nbj9Cjc"
   },
 };
 
